@@ -1,0 +1,11 @@
+$v=foo
+print $v
+theme red
+print hi
+theme default
+log
+exit
+print hello world
+pwd
+ls -l
+log
