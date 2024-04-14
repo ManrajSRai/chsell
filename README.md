@@ -43,5 +43,3 @@ This C program, named `cshell`, simulates a simple shell environment allowing th
 
 - **Error Handling**: The shell provides robust error handling for various scenarios, such as invalid commands, file access issues, and incorrect input formats.
 - **Expandability**: The shell's structured design allows for easy addition of new commands and features.
-
-This README provides a concise overview of `cshell`'s capabilities and usage, making it easier for new users to understand and utilize the shell effectively.
